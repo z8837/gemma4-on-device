@@ -1,11 +1,15 @@
 # Miscellaneous
 *.class
+*.iml
 *.lock
 *.log
 *.pyc
 *.swp
 .buildlog/
 .history
+
+# IDE
+.idea/
 
 
 
